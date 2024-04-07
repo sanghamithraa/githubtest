@@ -1,1 +1,17 @@
-created text.txt file
+created text.txt file<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page!</h1>
+    <p>This is a paragraph of text on my web page.</p>
+    <ul>
+        <li>First item in a list</li>
+        <li>Second item in a list</li>
+        <li>Third item in a list</li>
+    </ul>
+    <img src="image.jpg" alt="An image on my web page">
+    <a href="https://www.example.com">A link to another web page</a>
+</body>
+</html>
